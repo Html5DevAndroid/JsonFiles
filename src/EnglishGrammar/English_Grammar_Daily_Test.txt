@@ -1,8 +1,1 @@
-[
-{
-  "fuck":false
-},
-{
-  "fuck":true
-}
-]
+[{"snippet": "Test English Grammar For Beginner Level","contentUrl": "http://mystifying-cori-1c1ccb.bitballoon.com/","imageUrl": "https://image.ibb.co/ePqo5o/images.jpg","title": "Test 1"},{"snippet": "Test English Grammar For Beginner Level","contentUrl": "http://mystifying-cori-1c1ccb.bitballoon.com/","imageUrl": "https://image.ibb.co/ePqo5o/images.jpg","title": "Test 1"}]
