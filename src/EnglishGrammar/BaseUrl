@@ -1,0 +1,12 @@
+{
+  "dailyTipUrls": [
+    "https://api.myjson.com/bins/rjwhm",
+    "https://html5devandroid.github.io/JsonFiles/src/EnglishGrammar/English_Grammar_Daily_Knowledge.txt",
+    "https://dl.dropboxusercontent.com/s/akpesq742opm5il/grammar.txt?dl=0"
+  ],
+  "dailyTestUrls": [
+    "https://api.myjson.com/bins/153nza",
+    "https://html5devandroid.github.io/JsonFiles/src/EnglishGrammar/English_Grammar_Daily_Test.txt",
+    "https://dl.dropboxusercontent.com/s/7wbnozutkc5dkxz/test.txt?dl=0"
+  ]
+}
